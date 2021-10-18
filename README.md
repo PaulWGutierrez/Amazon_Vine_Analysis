@@ -14,4 +14,5 @@
 - #### What percentage of Vine reviews were 5 stars? What percentage of Non-Vine reviews were 5 stars?
   #### When it comes to the percentage in all between 5 stars Vine and Non-Vine program reviews calculates to be for the Vine program reviews about 41.62% and for the Non-Vine program reviews about 53.02%
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary: 
+#### When looking at the data it seems clear the big difference between paid and unpaid reviews. As far as the 5 star reviews from the Vine program we can say the 5 stars are not easily being handed out. From analyzing the data I believe there is no bias going on. One additional analysis I could do with the dataset is to filter in a date range of when reviews were made, that could have some affect.
