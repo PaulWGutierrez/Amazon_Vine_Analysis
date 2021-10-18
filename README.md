@@ -9,8 +9,7 @@
   #### As seen on the image there are 334 Vine Reviews which are paid reviews, and 61,614 Non-Vine Reviews which are unpaid reviews.
   
 - #### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?  
-  #### In the data in comparison to the large amount of reviews only 139 were 5 stars Vine programmed reviews and an immense amount of 5  
-  stars Non-Vine reviews which counts to be 32,665 reviews.
+  #### In the data in comparison to the large amount of reviews only 139 were 5 stars Vine programmed reviews and an immense amount of 5  stars Non-Vine reviews which counts to be 32,665 reviews.
   
 - #### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
